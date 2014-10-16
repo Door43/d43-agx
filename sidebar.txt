@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agx:home|Door43 (agx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agx|d43-agx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agx/archive/master.zip|d43-agx.zip]]
+
+**Recent Changes**
+{{changes>ns = agx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agx|Ethnologue data]]
+
